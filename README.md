@@ -21,7 +21,7 @@
 - Siéntete libre de abrir issues si tienes preguntas o si encuentras errores en las lecciones o ejercicios.
 - ¡Las contribuciones para mejorar las lecciones o agregar nuevos ejercicios siempre son bienvenidas!
   
-**¡Prepárate para sumergirte en el mundo de la programación en Java. Tu viaje para dominar Java comienza aquí!**
+**¡Prepárate para sumergirte en el mundo de la programación en Java.**
 _____________
 
 # Java - ENG
@@ -46,4 +46,4 @@ _____________
 - Feel free to raise issues if you have questions or if you find errors in the lessons or exercises.
 - Contributions to improve the lessons or add new exercises are always welcome!
   
-**Get ready to dive into the world of Java programming. Your journey to mastering Java starts here!**
+**Get ready to dive into the world of Java programming.**
